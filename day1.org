@@ -3,3 +3,4 @@
   - C-x g is my keybinding for M-x magit-status
   - s, u    : stage and unstage
   - z to show the stashing popup buffer.
+  - c       : commit, write a message and C-c C-c
